@@ -14,7 +14,7 @@ div.all{
     display: flex;
     align-content: center;
     align-items: center;
-    background:  rgba(137, 43, 226, 0.973);
+    background-color:  rgba(137, 43, 226, 0.973);
 }
 
 h1.titulo{
