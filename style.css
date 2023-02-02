@@ -14,7 +14,7 @@ div.all{
     display: flex;
     align-content: center;
     align-items: center;
-    background: radial-gradient( rgb(255, 239, 213) 1%, rgba(137, 43, 226, 0.973)95%)
+    background:  rgba(137, 43, 226, 0.973);
 }
 
 h1.titulo{
