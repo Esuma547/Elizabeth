@@ -7,13 +7,14 @@
 body{
     width: 100vmin;
     height: 100vmax;
-    background: radial-gradient( rgb(255, 239, 213) 1%, rgba(137, 43, 226, 0.973)95%)
+    
 }
 div.all{
     height: 100vmax;
     display: flex;
     align-content: center;
     align-items: center;
+    background: radial-gradient( rgb(255, 239, 213) 1%, rgba(137, 43, 226, 0.973)95%)
 }
 
 h1.titulo{
