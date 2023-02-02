@@ -33,7 +33,7 @@ h1 span.nombre {
 
 
 div.all:hover>h1>span, p{
-    display: inline-block;
+    display: block;
 }
 @keyframes animacion{
     0%{ transform:rotate(-15deg) scale(60%) ; -webkit-transform:rotate(-15deg) scale(60%) ; -moz-transform:rotate(-15deg) scale(60%) ; -ms-transform:rotate(-15deg) scale(60%) ; -o-transform:rotate(-15deg) scale(60%) ; }
