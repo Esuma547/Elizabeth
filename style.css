@@ -7,14 +7,14 @@
 body{
     width: 100vmin;
     height: 100vmax;
-    
+    background-color:  rgba(137, 43, 226, 0.973);
 }
 div.all{
     height: 100vmax;
     display: flex;
     align-content: center;
     align-items: center;
-    background-color:  rgba(137, 43, 226, 0.973);
+    
 }
 
 h1.titulo{
